@@ -1,6 +1,6 @@
 ### Olá! Eu me chamo Felipe barros 👋
 [![INSTAGRAM](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/felipebarr0os?igshid=MWZjMTM2ODFkZg==)
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipebarr0os-sim%C3%B5es-5569b2173/)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/felipebarr0os/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](felipebarros1111@gmail.com)
 
  <a href="https://github.com/felipebarr0os">
