@@ -1,11 +1,12 @@
-### Olá, Eu sou o Felipe barros 👋
+### Olá! Eu me chamo Felipe barros 👋
 [![INSTAGRAM](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/felipebarr0os?igshid=MWZjMTM2ODFkZg==)
-[![LINKEDIN](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/felipebarr0os-)
-[![GMAIL]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipebarr0os-sim%C3%B5es-5569b2173/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](felipebarros1111@gmail.com)
 
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipebarr0os&show_icons=true&theme=radical)<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipebarr0os&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <a href="https://github.com/felipebarr0os">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=felipebarr0os&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felipebarr0os&layout=compact&langs_count=8&theme=dracula"/>
+  
 
 
 
